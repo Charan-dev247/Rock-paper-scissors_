@@ -9,12 +9,6 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 
 ---
 
-## 📷 Preview
-
-![Game Preview](./images/preview.png) <!-- Replace or delete if no preview image yet -->
-
----
-
 ## ⚙️ Features
 
 - 🧠 Computer generates random choices
